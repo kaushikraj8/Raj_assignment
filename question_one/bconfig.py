@@ -11,8 +11,8 @@ def GetConfig():
     config['to_email'] = 'rishabhbhardwaj316@gmail.com'
     config['smtp_server'] = 'smtp-relay.brevo.com'
     config['smtp_port'] = 587
-    config['smtp_username'] = '781108001@smtp-brevo.com'
-    config['smtp_password'] = 'XMDy90xg1VTjm5GY'
+    config['smtp_username'] = ''
+    config['smtp_password'] = ''
     config['subject'] = 'Daily Review Report'
     config['chunksize'] = 10 ** 6
     return config
